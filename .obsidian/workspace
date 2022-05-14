@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e596b53ff904e6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad4c1c336cd5efeb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ML & Statistics/Decision Trees - TDS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43cc9732a0dcd229",
+    "type": "split",
+    "children": [
+      {
+        "id": "05679ca05f17af33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d36139ad164996f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2c7bc0d13ba0df6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4501e425896944f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "21254e95ad0e368d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb4cef3e82be39d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML & Statistics/Decision Trees - TDS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 148,
+    "collapsed": true
+  },
+  "active": "ad4c1c336cd5efeb",
+  "lastOpenFiles": [
+    "ML & Statistics/Decision Trees - TDS.md",
+    "ML & Statistics/Miary położenia.md",
+    "ML & Statistics/Explanatory Data Analysis.md",
+    "ML & Statistics/Drugs Kaggle.md",
+    "https.md",
+    "ML & Statistics/Miary rozproszenia.md",
+    "ML & Statistics/Decision Tree Classifier.md",
+    "Tech/Markdown.md",
+    "ML & Statistics/Z_średnie.md",
+    "ML & Statistics/ML algorithms & Stats.md"
+  ]
+}

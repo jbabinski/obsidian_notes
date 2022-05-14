@@ -9,7 +9,7 @@ Estymacja (na podstawie danych, próbki) vs miara (pełen obraz, wszystkie dane 
 
 ![[Pasted image 20220503201010.png]]
 
-**Średnia ważona** - *wi* oznacza wagę obserwacji. Używana, kiedy chcemy nadać większe znaczenie części obserwacji
+**Średnia ważona** - $w_{i}$ oznacza wagę obserwacji. Używana, kiedy chcemy nadać większe znaczenie części obserwacji
 
 ![[Pasted image 20220503201138.png]]
 

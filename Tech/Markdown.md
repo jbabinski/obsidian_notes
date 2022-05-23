@@ -6,7 +6,7 @@
 ### Summary
 
 ### Further reading 
-random change
 
+[LaTeX in Obsidian](https://medium.com/beyond-productivity/using-mathjax-in-obsidian-c57640af11ec)
 
-
+[LaTeX notation](https://en.wikibooks.org/wiki/LaTeX/Mathematics)

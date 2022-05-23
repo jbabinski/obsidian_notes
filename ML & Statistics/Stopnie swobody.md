@@ -1,0 +1,1 @@
+We wzorze na wariancję używany $n-1$ zamiast $n$, żeby otrzymać estymator nieobciążony (unbiased estimate). Stopnie swobody biorą pod uwagę liczbę ograniczeń podczas obliczania estymatora. W wypadku $s^2$ ogranicza nas średnia z populacji.

@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad4c1c336cd5efeb",
+        "id": "db509cc5a5c5bcb6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ML & Statistics/Miary rozproszenia.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "bbbdcfa757be44ac",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "KOD do napisania.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KOD do napisania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +83,17 @@
     "width": 148,
     "collapsed": true
   },
-  "active": "bbbdcfa757be44ac",
+  "active": "db509cc5a5c5bcb6",
   "lastOpenFiles": [
-    "KOD do napisania.md",
-    "ML & Statistics/Miary rozproszenia.md",
-    "Tech/Markdown.md",
+    "Recursive Feature Elimination with Cross Validation.md",
+    "Variance inflation factor (VIF).md",
+    "SHAP.md",
+    "Multicolinearity.md",
+    "ML & Statistics/ML algorithms & Stats.md",
+    "Recursive Feature Elimination.md",
     "ML & Statistics/Stopnie swobody.md",
-    "ML & Statistics/Miary położenia.md",
+    "ML & Statistics/Decision Tree Classifier.md",
     "ML & Statistics/Explanatory Data Analysis.md",
-    "ML & Statistics/Drugs Kaggle.md",
-    "Tech/Python programming/Data Structures.md",
-    "Tech/Python programming/Python programming.md",
     "ML & Statistics/Decision Trees - TDS.md"
   ]
 }

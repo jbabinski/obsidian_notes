@@ -1,7 +1,15 @@
 #main_section
 **Table of contents**
 ##### Machine Learning
-[[Decision Tree Classifier]]
+[[Recursive Feature Elimination]]
+[[Recursive Feature Elimination with Cross Validation]]
+[[Variance inflation factor (VIF)]]
+[[Multicolinearity]]
 
 ##### Statistics
 [[Explanatory Data Analysis]]
+
+##### Models
+[[SHAP]]
+[[CatBoost]]
+[[Decision Tree Classifier]]

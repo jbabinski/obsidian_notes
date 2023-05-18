@@ -1,0 +1,2 @@
+- transactional workload
+- NoSQL databased

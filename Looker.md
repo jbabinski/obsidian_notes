@@ -1,0 +1,6 @@
+- supports BigQuery & other SQL databases
+- LookML defines logic independent from database or SQL dialect, focuses on business logic
+- 100% web-based
+- has API
+- used to create dashboards
+- can schedule delivery by Drive, Slack or Dropbox

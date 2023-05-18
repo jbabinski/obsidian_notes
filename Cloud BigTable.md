@@ -1,0 +1,2 @@
+- analytical workload
+- NoSQL

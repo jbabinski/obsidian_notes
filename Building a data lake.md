@@ -1,0 +1,6 @@
+[[Data Lakes]]
+[[Data storage and ETL options on Google Cloud]]
+[[Building a data lake using Cloud Storage]]
+[[Cloud Storage#Secure Cloud Storage]]
+[[Cloud Storage#Data types]]
+[[Cloud SQL#Cloud SQL as a relational Data Lake]]]

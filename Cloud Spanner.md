@@ -1,0 +1,2 @@
+- best for global scalability & SQL databases when transactional workload is required
+- to be used over Cloud SQL if amount of data is too big fot single Cloud SQL instance

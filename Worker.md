@@ -1,0 +1,1 @@
+- Virtual Machine (VM) responsible for getting and transforming the data

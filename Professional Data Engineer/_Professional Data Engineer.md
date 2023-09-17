@@ -28,4 +28,7 @@
 [[DataFlow#Creating and re-using Pipeline Templates]]
 
 ### Manage Data Pipelines with Cloud Data Fusion and Cloud Composer
-[[Cloud Data Fusion]]
+[[Cloud Data Fusion#Introduction]]
+[[Cloud Data Fusion#Components]]
+[[Cloud Data Fusion#Build a pipeline]]
+[[Cloud Data Fusion#Explore data using Wrangler]]

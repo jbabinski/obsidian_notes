@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "3ad0a5e273456171",
+            "id": "c40397a543cf9425",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4501e425896944f1",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional Data Engineer/_Professional Data Engineer.md",
+                "file": "Cloud Data Fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,10 +126,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6b041e6e3b78a72",
+  "active": "c40397a543cf9425",
   "lastOpenFiles": [
-    "Cloud Data Fusion.md",
+    "Images/Pasted image 20230917212004.png",
+    "Images/Pasted image 20230917211910.png",
+    "Images/Pasted image 20230917211836.png",
     "Professional Data Engineer/_Professional Data Engineer.md",
+    "Cloud Data Fusion.md",
+    "Images/Pasted image 20230917211644.png",
+    "Images/Pasted image 20230917211634.png",
+    "Images/Pasted image 20230917211611.png",
+    "Images/Pasted image 20230917211548.png",
+    "Images/Pasted image 20230917211515.png",
+    "Images/Pasted image 20230917211500.png",
+    "Images/Pasted image 20230917211446.png",
+    "Images/Pasted image 20230917211355.png",
+    "Cloud Spanner.md",
     "DataProc.md",
     "Big Data with BigQuery.md",
     "Professional Data Engineer/Big data and ML product categories.md",
@@ -145,17 +156,7 @@
     "Role of Data Engineer & challenges.md",
     "Professional Data Engineer/Big Data and ML on Google Cloud.md",
     "Professional Data Engineer/Compute.md",
-    "Pasted image 20230518160517.png",
-    "Pasted image 20230518160430.png",
-    "Pasted image 20230518140703.png",
-    "Pasted image 20230518140634.png",
-    "Pasted image 20230518140510.png",
-    "Pasted image 20230518140414.png",
-    "Pasted image 20230518135919.png",
     "Designing streaming pipelines with Apache Beam.md",
-    "Pasted image 20230518133854.png",
-    "Pasted image 20230518133746.png",
-    "Pasted image 20230518133641.png",
     "Apache Beam.md",
     "Serialization.md",
     "Kubernetes.md",
@@ -165,8 +166,6 @@
     "The modern data warehouse.md",
     "The history of big data and ML products.md",
     "The Hadoop ecosystem.md",
-    "Tensor Flow.md",
-    "Tech/Sense making.md",
     "Professional Data Engineer"
   ]
 }

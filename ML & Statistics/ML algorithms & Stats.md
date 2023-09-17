@@ -8,6 +8,9 @@
 
 ##### Statistics
 [[Explanatory Data Analysis]]
+[[AUC]]
+[[Classification evaluation metrics]]
+[[Fitting distribution to data]]
 
 ##### Models
 [[SHAP]]

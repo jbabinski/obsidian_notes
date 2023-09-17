@@ -4,8 +4,13 @@
 **type:** 
 **tag:**
 
-### Summary
+Code - check VIF values for X vector
 
-### Further reading 
-
-
+	from patsy import dmatrices
+	import statsmodels.api as sm
+	from statsmodels.stats.outliers_influence import variance_inflation_factor
+	
+	vif = pd.DataFrame()
+	vif["VIF Factor"] = [variance_inflation_factor(X.values, i) for i in range(X.shape[1])]
+	vif["features"] = X.columns
+	vif.round(1)

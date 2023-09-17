@@ -1,4 +1,5 @@
 #main_section
+
 ### Google Cloud Big Data and Machine Learning Fundamentals
 [[Big Data and ML on Google Cloud]]
 [[Data Engineering for Streaming Data]]
@@ -19,3 +20,12 @@
 [[DataProc#Optimizing DataProc Storage]]
 [[DataProc#Optimizing Dataproc Templates and Autoscaling]]
 [[DataProc#Optimizing Dataproc Monitoring]]
+[[DataFlow#Run batch processing pipelines]]
+[[DataFlow#Pipelines in code]]
+[[DataFlow#Key considerations with designing pipelines]]
+[[DataFlow#Aggregate with GroupByKey and Combine]]
+[[DataFlow#Side inputs and Windows of data]]
+[[DataFlow#Creating and re-using Pipeline Templates]]
+
+### Manage Data Pipelines with Cloud Data Fusion and Cloud Composer
+[[Cloud Data Fusion]]

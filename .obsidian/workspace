@@ -6,9 +6,40 @@
       {
         "id": "db509cc5a5c5bcb6",
         "type": "leaf",
+        "dimension": 61.82121971595655,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Variance inflation factor (VIF).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "67649f893d3e5c7a",
+        "type": "leaf",
+        "dimension": 21.4703425229741,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ML & Statistics/ML algorithms & Stats.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c62c6ab56b0ae335",
+        "type": "leaf",
+        "dimension": 16.70843776106934,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AUC.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -45,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Variance inflation factor (VIF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +116,15 @@
   },
   "active": "db509cc5a5c5bcb6",
   "lastOpenFiles": [
-    "Recursive Feature Elimination with Cross Validation.md",
-    "Variance inflation factor (VIF).md",
-    "SHAP.md",
-    "Multicolinearity.md",
+    "AUC.md",
+    "Classification evaluation metrics.md",
     "ML & Statistics/ML algorithms & Stats.md",
-    "Recursive Feature Elimination.md",
-    "ML & Statistics/Stopnie swobody.md",
-    "ML & Statistics/Decision Tree Classifier.md",
+    "Fitting distribution to data.md",
+    "Variance inflation factor (VIF).md",
     "ML & Statistics/Explanatory Data Analysis.md",
-    "ML & Statistics/Decision Trees - TDS.md"
+    "SHAP.md",
+    "Recursive Feature Elimination with Cross Validation.md",
+    "Recursive Feature Elimination.md",
+    "https.md"
   ]
 }

@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "c40397a543cf9425",
+            "id": "fcbe9295e13edbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Data Fusion.md",
+                "file": "Cloud Composer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc9ef228f1db8122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Data Fusion.md",
+                "file": "Cloud Composer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,21 +138,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c40397a543cf9425",
+  "active": "fcbe9295e13edbc6",
   "lastOpenFiles": [
-    "Images/Pasted image 20230917212004.png",
-    "Images/Pasted image 20230917211910.png",
-    "Images/Pasted image 20230917211836.png",
+    "Cloud Composer.md",
     "Professional Data Engineer/_Professional Data Engineer.md",
+    "Cloud Functions.md",
+    "sadd.md",
+    "Images/Pasted image 20230918221523.png",
+    "Images/Pasted image 20230918221448.png",
+    "Images/Pasted image 20230918221431.png",
+    "Images/Pasted image 20230918221357.png",
+    "Images/Pasted image 20230918221255.png",
+    "Images/Pasted image 20230918221213.png",
+    "Images/Pasted image 20230918221142.png",
+    "Images/Pasted image 20230918221047.png",
+    "Images/Pasted image 20230918221034.png",
+    "Cloud Function.md",
+    "Images/Pasted image 20230918220914.png",
     "Cloud Data Fusion.md",
-    "Images/Pasted image 20230917211644.png",
-    "Images/Pasted image 20230917211634.png",
-    "Images/Pasted image 20230917211611.png",
-    "Images/Pasted image 20230917211548.png",
-    "Images/Pasted image 20230917211515.png",
-    "Images/Pasted image 20230917211500.png",
-    "Images/Pasted image 20230917211446.png",
-    "Images/Pasted image 20230917211355.png",
     "Cloud Spanner.md",
     "DataProc.md",
     "Big Data with BigQuery.md",
@@ -163,9 +178,6 @@
     "ET, ELT, ETL.md",
     "Worker.md",
     "Vertex AI.md",
-    "The modern data warehouse.md",
-    "The history of big data and ML products.md",
-    "The Hadoop ecosystem.md",
     "Professional Data Engineer"
   ]
 }

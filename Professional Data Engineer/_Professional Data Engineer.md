@@ -32,3 +32,6 @@
 [[Cloud Data Fusion#Components]]
 [[Cloud Data Fusion#Build a pipeline]]
 [[Cloud Data Fusion#Explore data using Wrangler]]
+[[Cloud Composer#Apache Airflow Environment]]
+[[Cloud Composer#Workflow scheduling]]
+[[Cloud Composer#Monitoring and logging]]

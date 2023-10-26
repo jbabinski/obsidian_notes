@@ -38,7 +38,6 @@
 
 
 ### Building Resilient Streaming Analytics Systems on Google Cloud
-[[Processing streaming data]]
 [[PubSub#Processing Streaming Data]]
 [[PubSub#Push versus Pull]]
 [[PubSub#Publishing with Pub/Sub code]]

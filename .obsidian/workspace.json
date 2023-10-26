@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professional Data Engineer/_Professional Data Engineer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60bfa14a8559069a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Professional Data Engineer/Big data and ML product categories.md",
                 "mode": "source",
                 "source": false
@@ -32,19 +20,30 @@
             }
           },
           {
-            "id": "869b099998d2ed68",
+            "id": "fcbe9295e13edbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professional Data Engineer/PubSub.md",
+                "file": "Cloud Composer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc9ef228f1db8122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,12 +89,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5
   },
   "right": {
     "id": "4501e425896944f1",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional Data Engineer/PubSub.md",
+                "file": "Professional Data Engineer/Big data and ML product categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,30 +137,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "869b099998d2ed68",
+  "active": "b6b041e6e3b78a72",
   "lastOpenFiles": [
-    "Professional Data Engineer/Big data and ML product categories.md",
+    "Professional Data Engineer/Big Data and ML on Google Cloud.md",
     "Professional Data Engineer/_Professional Data Engineer.md",
-    "Images/Pasted image 20230918215820.png",
-    "Images/Pasted image 20230918221213.png",
-    "Images/Pasted image 20230318122705.png",
-    "Images/Pasted image 20230308120022.png",
-    "Images/Pasted image 20230308115728.png",
-    "Images/Pasted image 20230319120950.png",
-    "Images/Pasted image 20230408212144.png",
-    "Images/Pasted image 20230314150126.png",
-    "Images/Pasted image 20230314150654.png",
-    "Images/Pasted image 20230918220904.png",
     "Professional Data Engineer/PubSub.md",
     "Processing streaming data.md",
-    "Cloud Data Fusion.md",
     "Cloud Composer.md",
+    "Images/Pasted image 20231025081330.png",
+    "Images/Pasted image 20231025081259.png",
+    "Images/Pasted image 20231025081243.png",
+    "Images/Pasted image 20231025081048.png",
+    "Images/Pasted image 20231025080821.png",
+    "Images/Pasted image 20231025080647.png",
+    "Images/Pasted image 20231025080645.png",
+    "Images/Pasted image 20231025080519.png",
+    "Images/Pasted image 20231025080340.png",
+    "Images/Pasted image 20231025080206.png",
     "Cloud Functions.md",
     "sadd.md",
     "Cloud Function.md",
+    "Cloud Data Fusion.md",
     "Cloud Spanner.md",
     "DataProc.md",
     "Big Data with BigQuery.md",
+    "Professional Data Engineer/Big data and ML product categories.md",
     "DataFlow.md",
     "Untitled.canvas",
     "Official Google Cloud Certified Professional Data Engineer Study Guide.pdf",
@@ -172,12 +171,12 @@
     "Data lakes and data warehouse.md",
     "Introduction to Data Engineering.md",
     "Role of Data Engineer & challenges.md",
-    "Professional Data Engineer/Big Data and ML on Google Cloud.md",
     "Professional Data Engineer/Compute.md",
     "Designing streaming pipelines with Apache Beam.md",
     "Apache Beam.md",
     "Serialization.md",
     "Kubernetes.md",
+    "ET, ELT, ETL.md",
     "Professional Data Engineer"
   ]
 }

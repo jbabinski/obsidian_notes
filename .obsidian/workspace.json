@@ -20,31 +20,30 @@
             }
           },
           {
-            "id": "fcbe9295e13edbc6",
+            "id": "60bfa14a8559069a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Composer.md",
+                "file": "Professional Data Engineer/Big data and ML product categories.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc9ef228f1db8122",
+            "id": "869b099998d2ed68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Functions.md",
+                "file": "Professional Data Engineer/PubSub.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Composer.md",
+                "file": "Professional Data Engineer/_Professional Data Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,28 +138,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fcbe9295e13edbc6",
+  "active": "b6b041e6e3b78a72",
   "lastOpenFiles": [
-    "Cloud Composer.md",
+    "Images/Pasted image 20230918215820.png",
+    "Images/Pasted image 20230918221213.png",
+    "Images/Pasted image 20230318122705.png",
+    "Images/Pasted image 20230308120022.png",
+    "Images/Pasted image 20230308115728.png",
+    "Images/Pasted image 20230319120950.png",
+    "Images/Pasted image 20230408212144.png",
+    "Images/Pasted image 20230314150126.png",
+    "Images/Pasted image 20230314150654.png",
+    "Images/Pasted image 20230918220904.png",
+    "Images/Pasted image 20230308101402.png",
+    "Professional Data Engineer/PubSub.md",
     "Professional Data Engineer/_Professional Data Engineer.md",
+    "Professional Data Engineer/Big data and ML product categories.md",
+    "Processing streaming data.md",
+    "Cloud Data Fusion.md",
+    "Cloud Composer.md",
     "Cloud Functions.md",
     "sadd.md",
-    "Images/Pasted image 20230918221523.png",
-    "Images/Pasted image 20230918221448.png",
-    "Images/Pasted image 20230918221431.png",
-    "Images/Pasted image 20230918221357.png",
-    "Images/Pasted image 20230918221255.png",
-    "Images/Pasted image 20230918221213.png",
-    "Images/Pasted image 20230918221142.png",
-    "Images/Pasted image 20230918221047.png",
-    "Images/Pasted image 20230918221034.png",
     "Cloud Function.md",
-    "Images/Pasted image 20230918220914.png",
-    "Cloud Data Fusion.md",
     "Cloud Spanner.md",
     "DataProc.md",
     "Big Data with BigQuery.md",
-    "Professional Data Engineer/Big data and ML product categories.md",
     "DataFlow.md",
     "Untitled.canvas",
     "Official Google Cloud Certified Professional Data Engineer Study Guide.pdf",
@@ -175,9 +178,6 @@
     "Apache Beam.md",
     "Serialization.md",
     "Kubernetes.md",
-    "ET, ELT, ETL.md",
-    "Worker.md",
-    "Vertex AI.md",
     "Professional Data Engineer"
   ]
 }

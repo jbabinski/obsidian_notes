@@ -35,3 +35,10 @@
 [[Cloud Composer#Apache Airflow Environment]]
 [[Cloud Composer#Workflow scheduling]]
 [[Cloud Composer#Monitoring and logging]]
+
+
+### Building Resilient Streaming Analytics Systems on Google Cloud
+[[Processing streaming data]]
+[[PubSub#Processing Streaming Data]]
+[[PubSub#Push versus Pull]]
+[[PubSub#Publishing with Pub/Sub code]]

@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional Data Engineer/_Professional Data Engineer.md",
+                "file": "Professional Data Engineer/PubSub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +139,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6b041e6e3b78a72",
+  "active": "869b099998d2ed68",
   "lastOpenFiles": [
+    "Professional Data Engineer/Big data and ML product categories.md",
+    "Professional Data Engineer/_Professional Data Engineer.md",
     "Images/Pasted image 20230918215820.png",
     "Images/Pasted image 20230918221213.png",
     "Images/Pasted image 20230318122705.png",
@@ -150,10 +153,7 @@
     "Images/Pasted image 20230314150126.png",
     "Images/Pasted image 20230314150654.png",
     "Images/Pasted image 20230918220904.png",
-    "Images/Pasted image 20230308101402.png",
     "Professional Data Engineer/PubSub.md",
-    "Professional Data Engineer/_Professional Data Engineer.md",
-    "Professional Data Engineer/Big data and ML product categories.md",
     "Processing streaming data.md",
     "Cloud Data Fusion.md",
     "Cloud Composer.md",

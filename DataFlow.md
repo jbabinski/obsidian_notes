@@ -104,3 +104,30 @@ Map (group) -> Reduce
 ##### Creating and re-using Pipeline Templates
 ![[Pasted image 20230518160430.png]]
 ![[Pasted image 20230518160517.png]]
+
+##### Streaming features
+![[Pasted image 20231027221905.png]]
+![[Pasted image 20231027221952.png]]
+![[Pasted image 20231027222043.png]]
+![[Pasted image 20231027222116.png]]
+![[Pasted image 20231027222135.png]]
+![[Pasted image 20231027222219.png]]
+- replacing timestamp to when system sent the message instead of receiving the message
+![[Pasted image 20231027222346.png]]
+![[Pasted image 20231027222356.png]]
+![[Pasted image 20231027222418.png]]
+
+##### Windowing
+![[Pasted image 20231027223011.png]]
+![[Pasted image 20231027223049.png]]
+![[Pasted image 20231027223118.png]]
+![[Pasted image 20231027234831.png]]
+![[Pasted image 20231027234912.png]]
+- watermark
+![[Pasted image 20231027234939.png]]
+![[Pasted image 20231027235023.png]]
+- what happens to late data? it's configurable
+![[Pasted image 20231027235710.png]]
+![[Pasted image 20231027235907.png]]
+![[Pasted image 20231027235958.png]]
+![[Pasted image 20231028000055.png]]

@@ -95,3 +95,42 @@ Unsupervised models
 	- Big Query - load data from CS and then transform via sql to create data warehouse
 	- user can create UDFs and share them locally/publically
 
+##### Streaming
+![[Pasted image 20231028141625.png]]
+![[Pasted image 20231028141852.png]]
+BI Engine
+![[Pasted image 20231028142446.png]]
+
+##### Window & GIS functions
+![[Pasted image 20231028155209.png]]
+![[Pasted image 20231028155221.png]]
+GIS - geographic information system
+![[Pasted image 20231028155329.png]]
+![[Pasted image 20231028155346.png]]
+![[Pasted image 20231028155429.png]]
+![[Pasted image 20231028155502.png]]
+![[Pasted image 20231028155513.png]]
+![[Pasted image 20231028155534.png]]
+##### Performance optimization
+![[Pasted image 20231028155814.png]]
+![[Pasted image 20231028155905.png]]
+![[Pasted image 20231028160010.png]]
+![[Pasted image 20231028160126.png]]
+![[Pasted image 20231028160737.png]]![[Pasted image 20231028160810.png]]
+![[Pasted image 20231028160834.png]]
+![[Pasted image 20231028160903.png]]
+![[Pasted image 20231028160939.png]]
+![[Pasted image 20231028160950.png]]
+![[Pasted image 20231028161003.png]]
+![[Pasted image 20231028161020.png]]
+
+#### Cost consideration
+![[Pasted image 20231028163716.png]]
+![[Pasted image 20231028163818.png]]
+![[Pasted image 20231028163832.png]]
+![[Pasted image 20231028163845.png]]
+![[Pasted image 20231028163858.png]]
+![[Pasted image 20231028164338.png]]
+![[Pasted image 20231028164430.png]]
+![[Pasted image 20231028164532.png]]
+![[Pasted image 20231028164613.png]]

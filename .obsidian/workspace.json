@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "5460efbaa9b48356",
+            "id": "3bee5471fca1d127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BigQuery.md",
+                "file": "Vertex AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BigQuery.md",
+                "file": "Vertex AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,21 +127,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5460efbaa9b48356",
+  "active": "3bee5471fca1d127",
   "lastOpenFiles": [
-    "Images/Pasted image 20231028164613.png",
-    "Images/Pasted image 20231028164532.png",
-    "Images/Pasted image 20231028164430.png",
-    "Images/Pasted image 20231028164338.png",
-    "Images/Pasted image 20231028163858.png",
-    "Images/Pasted image 20231028163845.png",
-    "Images/Pasted image 20231028163832.png",
-    "Images/Pasted image 20231028163818.png",
-    "Images/Pasted image 20231028163716.png",
     "Professional Data Engineer/_Professional Data Engineer.md",
+    "Vertex AI.md",
+    "AI on Google Cloud.md",
+    "Images/Pasted image 20231029132259.png",
+    "Images/Pasted image 20231029132249.png",
+    "Images/Pasted image 20231029132239.png",
+    "Images/Pasted image 20231029132230.png",
+    "Images/Pasted image 20231029132222.png",
+    "Images/Pasted image 20231029132214.png",
+    "Images/Pasted image 20231029132204.png",
+    "Images/Pasted image 20231029115816.png",
+    "Images/Pasted image 20231029115506.png",
+    "Images/Pasted image 20231029115455.png",
     "BigQuery.md",
-    "Images/Pasted image 20231028161020.png",
-    "Images/Pasted image 20231028161003.png",
     "Cloud BigTable.md",
     "Google Data Studio.md",
     "DataFlow.md",
@@ -166,7 +167,6 @@
     "Role of Data Engineer & challenges.md",
     "Professional Data Engineer/Compute.md",
     "Designing streaming pipelines with Apache Beam.md",
-    "Apache Beam.md",
     "Professional Data Engineer"
   ]
 }

@@ -49,3 +49,5 @@ Deployment options
 
 Model monitoring
 ![[Pasted image 20230314154814.png]]
+
+##### Big Data Analytics

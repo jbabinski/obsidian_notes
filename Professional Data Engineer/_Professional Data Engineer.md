@@ -49,3 +49,9 @@
 [[BigQuery#Window & GIS functions]]
 [[BigQuery#Performance optimization]]
 [[BigQuery#Cost consideration]]
+
+### Smart Analytics, Machine Learning, and AI on Google Cloud
+[[AI on Google Cloud]]
+[[AI on Google Cloud#From ad-hoc data analysis to data-driven decisions]]
+[[AI on Google Cloud#Prebuilt ML models APIs]]
+[[Vertex AI#Big Data Analytics]]

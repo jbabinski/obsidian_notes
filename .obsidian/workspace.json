@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3bee5471fca1d127",
+            "id": "f7c1d6dbd0c2afa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vertex AI.md",
+                "file": "BigQuery.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vertex AI.md",
+                "file": "BigQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,22 +127,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3bee5471fca1d127",
+  "active": "f7c1d6dbd0c2afa0",
   "lastOpenFiles": [
+    "Images/Pasted image 20231101140408.png",
+    "Images/Pasted image 20231101140356.png",
+    "Images/Pasted image 20231101140338.png",
+    "Images/Pasted image 20231101140227.png",
+    "Images/Pasted image 20231101140200.png",
+    "Images/Pasted image 20231101140102.png",
+    "Images/Pasted image 20231101140010.png",
+    "Images/Pasted image 20231101140002.png",
+    "Images/Pasted image 20231101135947.png",
+    "Images/Pasted image 20231101135925.png",
+    "Images/Pasted image 20231101135902.png",
     "Professional Data Engineer/_Professional Data Engineer.md",
-    "Vertex AI.md",
-    "AI on Google Cloud.md",
-    "Images/Pasted image 20231029132259.png",
-    "Images/Pasted image 20231029132249.png",
-    "Images/Pasted image 20231029132239.png",
-    "Images/Pasted image 20231029132230.png",
-    "Images/Pasted image 20231029132222.png",
-    "Images/Pasted image 20231029132214.png",
-    "Images/Pasted image 20231029132204.png",
-    "Images/Pasted image 20231029115816.png",
-    "Images/Pasted image 20231029115506.png",
-    "Images/Pasted image 20231029115455.png",
     "BigQuery.md",
+    "AI HUB.md",
+    "Vertex AI.md",
+    "Production ML Pipelines.md",
+    "AI on Google Cloud.md",
     "Cloud BigTable.md",
     "Google Data Studio.md",
     "DataFlow.md",
@@ -164,9 +167,6 @@
     "Professional Data Engineer/Firestore.md",
     "Data lakes and data warehouse.md",
     "Introduction to Data Engineering.md",
-    "Role of Data Engineer & challenges.md",
-    "Professional Data Engineer/Compute.md",
-    "Designing streaming pipelines with Apache Beam.md",
     "Professional Data Engineer"
   ]
 }

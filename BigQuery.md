@@ -134,3 +134,26 @@ GIS - geographic information system
 ![[Pasted image 20231028164430.png]]
 ![[Pasted image 20231028164532.png]]
 ![[Pasted image 20231028164613.png]]
+
+##### BQ ML
+![[Pasted image 20231101125010.png]]
+![[Pasted image 20231101125024.png]]
+![[Pasted image 20231101125053.png]]
+![[Pasted image 20231101125119.png]]![[Pasted image 20231101125151.png]]
+![[Pasted image 20231101125211.png]]
+![[Pasted image 20231101125257.png]]
+![[Pasted image 20231101125445.png]]
+##### Supported models
+![[Pasted image 20231101132003.png]]
+DNN - deep neural network
+![[Pasted image 20231101132033.png]]![[Pasted image 20231101135902.png]]
+![[Pasted image 20231101135925.png]]
+![[Pasted image 20231101135947.png]]
+![[Pasted image 20231101140002.png]]
+![[Pasted image 20231101140010.png]]
+![[Pasted image 20231101140102.png]]
+![[Pasted image 20231101140200.png]]
+![[Pasted image 20231101140227.png]]
+![[Pasted image 20231101140338.png]]
+![[Pasted image 20231101140356.png]]
+![[Pasted image 20231101140408.png]]

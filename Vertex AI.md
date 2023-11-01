@@ -51,3 +51,19 @@ Model monitoring
 ![[Pasted image 20230314154814.png]]
 
 ##### Big Data Analytics
+![[Pasted image 20231029182840.png]]
+![[Pasted image 20231029182906.png]]
+![[Pasted image 20231029221019.png]]
+![[Pasted image 20231029221034.png]]
+![[Pasted image 20231029221047.png]]![[Pasted image 20231029221056.png]]
+
+##### BigQuery magic
+![[Pasted image 20231029221212.png]]
+![[Pasted image 20231029221230.png]]
+![[Pasted image 20231029221306.png]]
+##### Pipelines
+![[Pasted image 20231030231319.png]]
+![[Pasted image 20231030231353.png]]
+![[Pasted image 20231030231458.png]]
+![[Pasted image 20231030231524.png]]
+![[Pasted image 20231030231608.png]]

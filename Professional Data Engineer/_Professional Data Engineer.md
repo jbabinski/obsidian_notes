@@ -61,3 +61,7 @@
 [[AI HUB]]
 [[BigQuery#BQ ML]]
 [[BigQuery#Supported models]]
+[[AutoML]]
+[[AutoML#Vision]]
+[[AutoML#NLP]]
+[[AutoML#Tables]]

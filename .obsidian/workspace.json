@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f7c1d6dbd0c2afa0",
+            "id": "2a3bfb4b31bb20ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BigQuery.md",
+                "file": "AutoML.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BigQuery.md",
+                "file": "AutoML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,20 +127,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f7c1d6dbd0c2afa0",
+  "active": "2a3bfb4b31bb20ac",
   "lastOpenFiles": [
-    "Images/Pasted image 20231101140408.png",
-    "Images/Pasted image 20231101140356.png",
-    "Images/Pasted image 20231101140338.png",
-    "Images/Pasted image 20231101140227.png",
-    "Images/Pasted image 20231101140200.png",
-    "Images/Pasted image 20231101140102.png",
-    "Images/Pasted image 20231101140010.png",
-    "Images/Pasted image 20231101140002.png",
-    "Images/Pasted image 20231101135947.png",
-    "Images/Pasted image 20231101135925.png",
-    "Images/Pasted image 20231101135902.png",
+    "Images/Pasted image 20231104121107.png",
+    "Images/Pasted image 20231104121057.png",
+    "Images/Pasted image 20231104121043.png",
+    "Images/Pasted image 20231104121015.png",
+    "Images/Pasted image 20231104121004.png",
+    "Images/Pasted image 20231104120951.png",
+    "Images/Pasted image 20231104120943.png",
+    "Images/Pasted image 20231104120908.png",
+    "Images/Pasted image 20231104120832.png",
+    "Images/Pasted image 20231104120750.png",
     "Professional Data Engineer/_Professional Data Engineer.md",
+    "AutoML.md",
+    "Images/Pasted image 20231104120722.png",
     "BigQuery.md",
     "AI HUB.md",
     "Vertex AI.md",
@@ -166,7 +167,6 @@
     "Professional Data Engineer/Cloud SQL.md",
     "Professional Data Engineer/Firestore.md",
     "Data lakes and data warehouse.md",
-    "Introduction to Data Engineering.md",
     "Professional Data Engineer"
   ]
 }

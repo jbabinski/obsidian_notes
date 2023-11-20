@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36093f1b867285f0",
+        "id": "5197edb3644f6f46",
         "type": "tabs",
         "children": [
           {
-            "id": "b6b041e6e3b78a72",
+            "id": "7365e51865ee5ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2a3bfb4b31bb20ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AutoML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "data",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AutoML.md",
+                "file": "Professional Data Engineer/_Professional Data Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +114,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2a3bfb4b31bb20ac",
+  "active": "7365e51865ee5ed8",
   "lastOpenFiles": [
+    "Introduction to Data Engineering.md",
+    "Data lakes and data warehouse.md",
+    "Intro to BigQuery.md",
+    "Role of Data Engineer & challenges.md",
+    "Professional Data Engineer/_Professional Data Engineer.md",
+    "AutoML.md",
+    "ET, ELT, ETL.md",
+    "Professional Data Engineer/Compute.md",
+    "Professional Data Engineer/Big Data and ML on Google Cloud.md",
     "Images/Pasted image 20231104121107.png",
     "Images/Pasted image 20231104121057.png",
     "Images/Pasted image 20231104121043.png",
@@ -139,9 +135,6 @@
     "Images/Pasted image 20231104120908.png",
     "Images/Pasted image 20231104120832.png",
     "Images/Pasted image 20231104120750.png",
-    "Professional Data Engineer/_Professional Data Engineer.md",
-    "AutoML.md",
-    "Images/Pasted image 20231104120722.png",
     "BigQuery.md",
     "AI HUB.md",
     "Vertex AI.md",
@@ -151,7 +144,6 @@
     "Google Data Studio.md",
     "DataFlow.md",
     "Professional Data Engineer/Big data and ML product categories.md",
-    "Professional Data Engineer/Big Data and ML on Google Cloud.md",
     "Professional Data Engineer/PubSub.md",
     "Processing streaming data.md",
     "Cloud Composer.md",
@@ -160,13 +152,8 @@
     "Cloud Function.md",
     "Cloud Data Fusion.md",
     "Cloud Spanner.md",
-    "DataProc.md",
-    "Big Data with BigQuery.md",
     "Untitled.canvas",
     "Official Google Cloud Certified Professional Data Engineer Study Guide.pdf",
-    "Professional Data Engineer/Cloud SQL.md",
-    "Professional Data Engineer/Firestore.md",
-    "Data lakes and data warehouse.md",
     "Professional Data Engineer"
   ]
 }

@@ -65,3 +65,16 @@
 [[AutoML#Vision]]
 [[AutoML#NLP]]
 [[AutoML#Tables]]
+
+### Serverless Data Processing with Dataflow
+[[DataFlow#Beam Portability]]
+[[DataFlow#Separating Compute and Storage with Dataflow]]
+[[DataFlow#IAM, Quotas and Permissions]]
+[[DataFlow#Quotas]]
+[[DataFlow#Security]]
+[docs](https://www.coursera.org/learn/serverless-data-processing-with-dataflow-foundations/supplement/uGf9n/additional-resources)
+
+
+### Serverless Data Processing with Dataflow: Operations
+[[DataFlow#Monitoring]]
+

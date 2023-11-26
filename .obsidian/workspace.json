@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professional Data Engineer/_Professional Data Engineer.md",
+                "file": "Data lakes and data warehouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional Data Engineer/_Professional Data Engineer.md",
+                "file": "Data lakes and data warehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,24 +117,25 @@
   "active": "7365e51865ee5ed8",
   "lastOpenFiles": [
     "Introduction to Data Engineering.md",
-    "Data lakes and data warehouse.md",
     "Intro to BigQuery.md",
     "Role of Data Engineer & challenges.md",
     "Professional Data Engineer/_Professional Data Engineer.md",
+    "DataFlow.md",
+    "Images/Pasted image 20231126215311.png",
+    "Images/Pasted image 20231126215303.png",
+    "Images/Pasted image 20231126215249.png",
+    "Images/Pasted image 20231126215114.png",
+    "Images/Pasted image 20231126215105.png",
+    "Images/Pasted image 20231126214928.png",
+    "Images/Pasted image 20231126214908.png",
+    "Images/Pasted image 20231126214713.png",
+    "Images/Pasted image 20231126214657.png",
+    "Images/Pasted image 20231126214643.png",
+    "Data lakes and data warehouse.md",
     "AutoML.md",
     "ET, ELT, ETL.md",
     "Professional Data Engineer/Compute.md",
     "Professional Data Engineer/Big Data and ML on Google Cloud.md",
-    "Images/Pasted image 20231104121107.png",
-    "Images/Pasted image 20231104121057.png",
-    "Images/Pasted image 20231104121043.png",
-    "Images/Pasted image 20231104121015.png",
-    "Images/Pasted image 20231104121004.png",
-    "Images/Pasted image 20231104120951.png",
-    "Images/Pasted image 20231104120943.png",
-    "Images/Pasted image 20231104120908.png",
-    "Images/Pasted image 20231104120832.png",
-    "Images/Pasted image 20231104120750.png",
     "BigQuery.md",
     "AI HUB.md",
     "Vertex AI.md",
@@ -142,7 +143,6 @@
     "AI on Google Cloud.md",
     "Cloud BigTable.md",
     "Google Data Studio.md",
-    "DataFlow.md",
     "Professional Data Engineer/Big data and ML product categories.md",
     "Professional Data Engineer/PubSub.md",
     "Processing streaming data.md",
@@ -151,7 +151,6 @@
     "sadd.md",
     "Cloud Function.md",
     "Cloud Data Fusion.md",
-    "Cloud Spanner.md",
     "Untitled.canvas",
     "Official Google Cloud Certified Professional Data Engineer Study Guide.pdf",
     "Professional Data Engineer"

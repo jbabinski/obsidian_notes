@@ -131,3 +131,61 @@ Map (group) -> Reduce
 ![[Pasted image 20231027235907.png]]
 ![[Pasted image 20231027235958.png]]
 ![[Pasted image 20231028000055.png]]
+
+##### Beam Portability
+
+![[Pasted image 20231126202714.png]]
+![[Pasted image 20231126202744.png]]
+
+![[Pasted image 20231126202825.png]]
+![[Pasted image 20231126202850.png]]
+![[Pasted image 20231126202952.png]]
+![[Pasted image 20231126203033.png]]
+![[Pasted image 20231126204057.png]]
+![[Pasted image 20231126204200.png]]
+![[Pasted image 20231126204227.png]]
+![[Pasted image 20231126204327.png]]
+![[Pasted image 20231126204340.png]]![[Pasted image 20231126204518.png]]
+![[Pasted image 20231126204528.png]]
+![[Pasted image 20231126204613.png]]
+
+##### Separating Compute and Storage with Dataflow
+![[Pasted image 20231126204836.png]]
+![[Pasted image 20231126204942.png]]
+![[Pasted image 20231126205051.png]]
+![[Pasted image 20231126205107.png]]
+![[Pasted image 20231126205213.png]]
+![[Pasted image 20231126205310.png]]
+
+##### IAM, Quotas and Permissions
+![[Pasted image 20231126212549.png]]
+![[Pasted image 20231126212602.png]]
+![[Pasted image 20231126212757.png]]
+![[Pasted image 20231126212723.png]]
+![[Pasted image 20231126212808.png]]
+![[Pasted image 20231126212907.png]]
+![[Pasted image 20231126212929.png]]
+![[Pasted image 20231126213042.png]]
+
+##### Quotas
+![[Pasted image 20231126213143.png]]
+![[Pasted image 20231126213254.png]]
+![[Pasted image 20231126213402.png]]
+![[Pasted image 20231126213439.png]]
+![[Pasted image 20231126213559.png]]
+![[Pasted image 20231126213652.png]]
+![[Pasted image 20231126213745.png]]
+##### Security
+![[Pasted image 20231126214528.png]]
+![[Pasted image 20231126214628.png]]
+![[Pasted image 20231126214643.png]]
+![[Pasted image 20231126214657.png]]
+![[Pasted image 20231126214713.png]]![[Pasted image 20231126214908.png]]
+![[Pasted image 20231126214928.png]]
+![[Pasted image 20231126215105.png]]
+![[Pasted image 20231126215114.png]]
+
+![[Pasted image 20231126215303.png]]
+![[Pasted image 20231126215311.png]]
+
+##### Monitoring

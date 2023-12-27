@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data lakes and data warehouse.md",
+                "file": "Professional Data Engineer/_Professional Data Engineer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32e43dadeb5c7c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataFlow.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 222.5
   },
   "right": {
     "id": "4501e425896944f1",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data lakes and data warehouse.md",
+                "file": "Professional Data Engineer/_Professional Data Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,26 +127,26 @@
   },
   "active": "7365e51865ee5ed8",
   "lastOpenFiles": [
+    "DataFlow.md",
+    "Images/Pasted image 20231226212132.png",
+    "Images/Pasted image 20231226212106.png",
+    "Images/Pasted image 20231226212053.png",
+    "Professional Data Engineer/_Professional Data Engineer.md",
+    "Images/Pasted image 20231226192950.png",
+    "Images/Pasted image 20231226192934.png",
+    "Images/Pasted image 20231226192925.png",
+    "Images/Pasted image 20231226192904.png",
+    "Images/Pasted image 20231226192837.png",
+    "Images/Pasted image 20231226192818.png",
+    "Images/Pasted image 20231226192812.png",
+    "Professional Data Engineer/Big Data and ML on Google Cloud.md",
+    "Data lakes and data warehouse.md",
     "Introduction to Data Engineering.md",
     "Intro to BigQuery.md",
     "Role of Data Engineer & challenges.md",
-    "Professional Data Engineer/_Professional Data Engineer.md",
-    "DataFlow.md",
-    "Images/Pasted image 20231126215311.png",
-    "Images/Pasted image 20231126215303.png",
-    "Images/Pasted image 20231126215249.png",
-    "Images/Pasted image 20231126215114.png",
-    "Images/Pasted image 20231126215105.png",
-    "Images/Pasted image 20231126214928.png",
-    "Images/Pasted image 20231126214908.png",
-    "Images/Pasted image 20231126214713.png",
-    "Images/Pasted image 20231126214657.png",
-    "Images/Pasted image 20231126214643.png",
-    "Data lakes and data warehouse.md",
     "AutoML.md",
     "ET, ELT, ETL.md",
     "Professional Data Engineer/Compute.md",
-    "Professional Data Engineer/Big Data and ML on Google Cloud.md",
     "BigQuery.md",
     "AI HUB.md",
     "Vertex AI.md",

@@ -66,7 +66,7 @@
 [[AutoML#NLP]]
 [[AutoML#Tables]]
 
-### Serverless Data Processing with Dataflow
+### Serverless Data Processing with Dataflow: Foundations
 [[DataFlow#Beam Portability]]
 [[DataFlow#Separating Compute and Storage with Dataflow]]
 [[DataFlow#IAM, Quotas and Permissions]]
@@ -75,6 +75,16 @@
 [docs](https://www.coursera.org/learn/serverless-data-processing-with-dataflow-foundations/supplement/uGf9n/additional-resources)
 
 
+### Serverless Data Processing with Dataflow: Develop Pipelines
+
+[[DataFlow#Beam Concepts Review]]
+[[DataFlow#Windows, watermarks, triggers]]
+[[DataFlow#Sources and sinks]]
+[[DataFlow#Schemas]]
+[[DataFlow#State and Timers]]
+[[DataFlow#Best practices]]
+[[DataFlow#Dataflow SQL & DataFrames]]
+[[DataFlow#Beam notebooks]]
+
 ### Serverless Data Processing with Dataflow: Operations
 [[DataFlow#Monitoring]]
-
